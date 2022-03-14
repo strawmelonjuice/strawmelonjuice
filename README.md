@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 📫 How to reach me: ...
+- 📫 How to reach me: https://discord.gg/PtHfNJ94PQ
 - 😄 Pronouns: She/her or they them
 
 
