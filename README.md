@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 📫 How to reach me: https://discord.gg/PtHfNJ94PQ
+- 📫 How to reach me: https://discord.gg/PtHfNJ94PQ or just.mar.ok2813 <at> gmail <dot> com
 - 😄 Pronouns: `She/her` or `they/them`
 
 
@@ -12,6 +12,6 @@ Optimist, emotional human, writer, actual witch sometimes, (cool) person, weirdo
 > ― Toni Morrison
 
 
-<br></br><br></br>
+<br></br>
 <h align = "left"><img src = "https://komarev.com/ghpvc/?username=mar-on-github" alt = "Profile Views" /></h><br>
-[![Zt-freak's github stats](https://github-readme-stats.vercel.app/api?username=mar-on-github&count_private=true&show_icons=true)](https://github.com/mar-on-github)
+[![Mar's github stats](https://github-readme-stats.vercel.app/api?username=mar-on-github&count_private=true&show_icons=true)](https://github.com/mar-on-github)
