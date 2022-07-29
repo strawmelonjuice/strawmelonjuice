@@ -1,3 +1,5 @@
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5016013452104530"
+     crossorigin="anonymous"></script>
 ### Hi there 👋
 
 - 📫 How to reach me: https://discord.gg/PtHfNJ94PQ or just.mar.ok2813 <at> gmail <dot> com
