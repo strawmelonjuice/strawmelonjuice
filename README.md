@@ -1,5 +1,5 @@
-<html><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5016013452104530"
-     crossorigin="anonymous"></script></html> [//]: # (This is not here!)
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5016013452104530"
+     crossorigin="anonymous"></script> [//]: # (This is not here!)
      
      
 ### Hi there 👋
