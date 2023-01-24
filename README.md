@@ -1,11 +1,10 @@
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5016013452104530"
-     crossorigin="anonymous"></script> [//]: # (This is not here!)
-     
+  
      
 ### Hi there 👋
 
-- 📫 How to reach me: https://discord.gg/PtHfNJ94PQ or just.mar.ok2813 <at> gmail <dot> com
+- 📫 How to reach me: <https://discord.gg/PtHfNJ94PQ> or just.mar.ok2813 <at> gmail <dot> com
 - 😄 Pronouns: `She/her` or `they/them`
+- 🖇 Link page: <https://from-mar.com/blog/link-in-bio/>
 
 
 ## About me
