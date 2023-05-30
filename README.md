@@ -4,7 +4,7 @@
 
 - 📫 How to reach me: <https://discord.gg/PtHfNJ94PQ> or just.mar.ok2813 <at> gmail <dot> com
 - 😄 Pronouns: `She/her` or `they/them`
-- 🖇 Link page: <https://from-mar.com/blog/link-in-bio/>
+- 🖇 Link page: <https://from-mar.com/pages/md.php?id=2>
 
 
 ## About me
