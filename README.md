@@ -1,10 +1,11 @@
-  
+I delete a lot of repos in my cleanup drifts, so that's why my repos arent peaking to 100 yet lol  
      
 ### Hi there 👋
 
-- 📫 How to reach me: <https://discord.gg/PtHfNJ94PQ> or just.mar.ok2813 <at> gmail <dot> com
+- 📫 How to reach me: `strawmelonjuice#2003` on Discord or just.mar.ok2813 <at> gmail <dot> com
 - 😄 Pronouns: `She/her` or `they/them`
-- 🖇 Link page: <https://from-mar.com/pages/md.php?id=2>
+- 🖇 Link page: <https://site.from-mar.com/pages/?p=2> 
+    ( about me page <https://site.from-mar.com/pages/?p=2>)
 
 
 ## About me
