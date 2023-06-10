@@ -1,3 +1,5 @@
+<h align = "left"><img src = "https://komarev.com/ghpvc/?username=mar-on-github" alt = "Profile Views" /></h><br>
+
 I delete a lot of repos in my cleanup drifts, so that's why my repos arent peaking to 100 yet lol  
      
 ### Hi there 👋
@@ -17,5 +19,4 @@ Optimist, emotional human, writer, actual witch sometimes, (cool) person, weirdo
 
 
 <br><hr><br>
-<h align = "left"><img src = "https://komarev.com/ghpvc/?username=mar-on-github" alt = "Profile Views" /></h><br>
 [![Mar's github stats](https://github-readme-stats.vercel.app/api?username=mar-on-github&count_private=true&show_icons=true)](https://github.com/mar-on-github)
