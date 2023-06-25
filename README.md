@@ -4,10 +4,10 @@ I delete a lot of repos in my cleanup drifts, so that's why my repos arent peaki
      
 ### Hi there 👋
 
-- 📫 How to reach me: `strawmelonjuice#2003` on Discord or just.mar.ok2813 <at> gmail <dot> com
+- 📫 How to reach me: `strawmelonjuice` on Discord or just.mar.ok2813 <at> gmail <dot> com
 - 😄 Pronouns: `She/her` or `they/them`
-- 🖇 Link page: <https://site.from-mar.com/?p=2> 
-    ( about me page <https://site.from-mar.com/?p=1>)
+- 🖇 Link page: <https://strawmelonjuice.nl/?p=2>
+    ( about me page <https://strawmelonjuice.nl/?p=1>)
 
 
 ## About me
