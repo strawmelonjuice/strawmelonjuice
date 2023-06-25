@@ -1,6 +1,6 @@
 <h align = "left"><img src = "https://komarev.com/ghpvc/?username=strawmelonjuice" alt = "Profile Views" /></h><br>
 
-I delete a lot of repos in my cleanup drifts, so that's why my repos arent peaking to 100 yet lol  
+I delete a lot of repos in my cleanup drifts, so that's why my repos arent peaking to 100 yet lol  (also i have pro just to keep all my embarassing little projects hidden from yall)
      
 ### Hi there 👋
 
