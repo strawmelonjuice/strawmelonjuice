@@ -6,8 +6,8 @@ I delete a lot of repos in my cleanup drifts, so that's why my repos arent peaki
 
 - 📫 How to reach me: `strawmelonjuice` on Discord or just.mar.ok2813 <at> gmail <dot> com
 - 😄 Pronouns: `She/her` or `they/them`
-- 🖇 Link page: <https://strawmelonjuice.nl/?p=2>
-    ( about me page <https://strawmelonjuice.nl/?p=1>)
+- 🖇 Link page: <https://strawmelonjuice.com/?p=2>
+    ( about me page <https://strawmelonjuice.com/?p=1>)
 
 
 ## About me
