@@ -8,8 +8,7 @@ WebDev is a great means of instant gratification \:\)
 
 - 📫 How to reach me: `strawmelonjuice` on Discord or just.mar.ok2813 <at> gmail <dot> com
 - 😄 Pronouns: `She/her` or `they/them`
-- 🖇 Link page: <https://strawmelonjuice.com/?p=2>
-    ( about me page <https://strawmelonjuice.com/?p=1>)
+- 🖇 My about me page <https://strawmelonjuice.com/?p=1> (which is _on_ my site; look around!)
 
 
 ## About me
@@ -18,7 +17,3 @@ Optimist, emotional human, writer, actual witch sometimes, (cool) person, weirdo
 ### Favourite quote
 > “If there’s a book that you want to read, but it hasn’t been written yet, then you must write it.”
 > ― Toni Morrison
-
-
-<br><hr><br>
-[![Mar's github stats](https://github-readme-stats.vercel.app/api?username=strawmelonjuice&count_private=true&show_icons=true)](https://github.com/strawmelonjuice)
