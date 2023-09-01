@@ -10,6 +10,9 @@ WebDev is a great means of instant gratification \:\)
 - 😄 Pronouns: `She/her` or `they/them`
 - 🖇 My about me page <https://strawmelonjuice.com/?p=1> (which is _on_ my site; look around!)
 
+![Base information and commits past year](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=strawmelonjuice&theme=github_dark)
+![Commits per hour](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=strawmelonjuice&theme=github_dark)
+![Most used languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=strawmelonjuice&theme=github_dark)
 
 ## About me
 Optimist, emotional human, writer, actual witch sometimes, (cool) person, weirdo, me.
