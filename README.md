@@ -9,10 +9,8 @@ WebDev is a great means of instant gratification \:\)
 - 📫 How to reach me: `strawmelonjuice` on Discord or just.mar.ok2813 <at> gmail <dot> com
 - 😄 Pronouns: `She/her` or `they/them`
 - 🖇 My about me page <https://strawmelonjuice.com/?p=1> (which is _on_ my site; look around!)
+![Commits per hour](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=strawmelonjuice&theme=onedark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=strawmelonjuice&layout=pie&theme=onedark)](https://github.com/strawmelonjuice)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=strawmelonjuice&theme=onedark) ![Commits per hour](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=strawmelonjuice&theme=onedark) 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=strawmelonjuice&layout=pie&theme=onedark)](https://github.com/strawmelonjuice)
 ![Mar's GitHub stats](https://github-readme-stats.vercel.app/api?username=strawmelonjuice&theme=onedark&rank_icon=github&show_icons=true)
 ## About me
 Optimist, emotional human, writer, actual witch sometimes, (cool) person, weirdo, me.
