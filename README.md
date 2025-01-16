@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 📫 How to reach me: `strawmelonjuice` on Discord or just.mar.ok2813 <at> gmail <dot> com
+- 📫 How to reach me: `strawmelonjuice` on Discord or `mar <at> strawmelonjuice <dot> com`
 - 😄 Pronouns: `She/her` or `they/them`
 - 🖇 My about me page <https://strawmelonjuice.com/p/me> (which is _on_ my site; look around!)
 
