@@ -8,8 +8,8 @@
 
    <p align="center">
       My skillicons:<br><br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=zig,windows,ts,sass,raspberrypi,rust,pnpm,phpstorm,php,obsidian,neovim,npm,nodejs,md,linux,js,html,go,github,gleam,git,figma,electron,express,discordjs,discord,cloudflare,css,bash,bun,actix,arch&theme=light" />
+  <a href="https://github.com/lelouchfr/skill-icons">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=zig,windows,ts,sass,raspberrypi,rust,pnpm,phpstorm,php,obsidian,neovim,npm,nodejs,md,linux,js,html,go,github,gleam,git,figma,electron,express,discordjs,discord,cloudflare,css,bash,bun,actix,arch&theme=light" />
   </a>
 </p>
 
