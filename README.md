@@ -7,9 +7,9 @@
 
 
    <p align="center">
-      My skillicons:<br><br>
+      My skillicons: (recognise something? tell me!)<br><br>
   <a href="https://github.com/lelouchfr/skill-icons">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=zig,windows,ts,sass,raspberrypi,rust,pnpm,phpstorm,php,obsidian,neovim,npm,nodejs,md,linux,js,html,go,github,gleam,git,figma,electron,express,discordjs,discord,cloudflare,css,tailwindcss,bash,bun,actix,arch,fedora,redhat,postgresql,mysql&theme=light" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=windows,ts,sass,raspberrypi,rust,c,pnpm,phpstorm,php,obsidian,neovim,npm,nodejs,md,linux,js,html,go,github,gleam,git,figma,electron,express,discordjs,discord,cloudflare,css,tailwindcss,bash,bun,actix,arch,fedora,redhat,postgresql,mysql&theme=light" />
   </a>
 </p>
 
