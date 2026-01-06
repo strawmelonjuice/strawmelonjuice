@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 📫 How to reach me: `strawmelonjuice` on Discord or `mar <at> strawmelonjuice <dot> com`
-- 🖇 My about me page <https://strawmelonjuice.com/#/me> (which is _on_ my site; look around!)
+- 🖇 My site <https://strawmelonjuice.com/#/>
 
 
 
