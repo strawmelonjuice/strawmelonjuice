@@ -2,8 +2,8 @@
 
 I'm **Mar**, also known as **strawmelonjuice**!
 
-I'm currently a Software Engineering student at _Fontys University of Applied Sciences_, but I've been a tinkerer and a contributor in the OSS world for much longer. 
-I hope we can cross paths and maybe even contribute to some code together.
+I'm currently a Software Engineering student at Fontys University of Applied Sciences, but I've been a tinkerer and a contributor in the OSS world for much longer!
+Who knows, we might cross paths and maybe even contribute to some code together :)
 
 - 📫 **How to reach me:** `strawmelonjuice` on Discord or `mar <at> strawmelonjuice <dot> com`
 - 🖇 **My site:** [strawmelonjuice.com](https://strawmelonjuice.com/#/)
